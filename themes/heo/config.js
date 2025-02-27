@@ -69,7 +69,23 @@ const CONFIG = {
       img_2: '/images/heo/1-2.png',
       color_2: '#000000'
     }
-    // ,
+    ,
+    {
+      title_1: 'ComicCon',
+      img_1: '/images/heo/1-1.png',
+      color_1: '#000000',
+      title_2: 'Live',
+      img_2: '/images/heo/1-2.png',
+      color_2: '#000000'
+    },
+    {
+      title_1: 'ComicCon',
+      img_1: '/images/heo/1-1.png',
+      color_1: '#000000',
+      title_2: 'Live',
+      img_2: '/images/heo/1-2.png',
+      color_2: '#000000'
+    }
     // {
     //   title_1: 'ComicCon',
     //   img_1: '/images/heo/20231108a540b2862d26f8850172e4ea58ed075102.webp',
