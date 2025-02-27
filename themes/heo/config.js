@@ -53,8 +53,8 @@ const CONFIG = {
   HEO_INFO_CARD_ICON1: 'fab fa-bilibili',
   HEO_INFO_CARD_URL2: 'https://space.bilibili.com/567031112',
   HEO_INFO_CARD_ICON2: 'fab fa-tiktok',
-  HEO_INFO_CARD_URL3: '/about',
-  HEO_INFO_CARD_ICON3: 'fas fa-cart-shopping"></i>',
+  // HEO_INFO_CARD_URL3: '/about',
+  // HEO_INFO_CARD_ICON3: 'fas fa-cart-shopping"></i>',
   HEO_INFO_CARD_URL3: '/about',
   HEO_INFO_CARD_TEXT3: '了解更多',
 
