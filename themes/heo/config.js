@@ -52,7 +52,7 @@ const CONFIG = {
   // 个人资料底部按钮
   HEO_INFO_CARD_URL1: 'https://space.bilibili.com/567031112',
   HEO_INFO_CARD_ICON1: 'fab fa-bilibili',
-  HEO_INFO_CARD_URL2: 'https://space.bilibili.com/567031112',
+  HEO_INFO_CARD_URL2: 'https://www.douyin.com/user/MS4wLjABAAAAfRg3xrjCDXRyFOYBfReiGhLSMddIHROcaHSpk3W4IdswkTO2yzPajecLZTM89sSy',
   HEO_INFO_CARD_ICON2: 'fab fa-tiktok',
   // HEO_INFO_CARD_URL3: '/about',
   // HEO_INFO_CARD_ICON3: 'fas fa-cart-shopping"></i>',
@@ -62,7 +62,7 @@ const CONFIG = {
   // 用户技能图标
   HEO_GROUP_ICONS: [
     {
-      title_1: 'AfterEffect',
+      title_1: 'Live',
       img_1: '/images/heo/20239df3f66615b532ce571eac6d14ff21cf072602.webp',
       color_1: '#989bf8',
       title_2: 'Sketch',
@@ -70,7 +70,7 @@ const CONFIG = {
       color_2: '#ffffff'
     },
     {
-      title_1: 'Docker',
+      title_1: 'ComicCon',
       img_1: '/images/heo/20231108a540b2862d26f8850172e4ea58ed075102.webp',
       color_1: '#57b6e6',
       title_2: 'Photoshop',
@@ -123,7 +123,7 @@ const CONFIG = {
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
   HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
   HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
-  HEO_SOCIAL_CARD_URL: 'https://docs.tangly1024.com/article/how-to-question',
+  HEO_SOCIAL_CARD_URL: 'https://steamcommunity.com/chat/invite/XSdaEGwY',
 
   // 底部统计面板文案
   HEO_POST_COUNT_TITLE: '文章数:',
