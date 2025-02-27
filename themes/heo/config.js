@@ -22,11 +22,11 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '记录生活',
   HEO_HERO_TITLE_2: '整理存档',
   HEO_HERO_TITLE_3: 'TedMosby.top',
-  // HEO_HERO_TITLE_4: '新版上线',
-  // HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
-  // HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
+  HEO_HERO_TITLE_4: '全新上线',
+  HEO_HERO_TITLE_5: '82岁，喜欢卡片',
+  HEO_HERO_TITLE_LINK: 'https://space.bilibili.com/567031112',
   // 英雄区遮罩文字
-  HEO_HERO_COVER_TITLE: '随便逛逛',
+  HEO_HERO_COVER_TITLE: '随机一下哈',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
