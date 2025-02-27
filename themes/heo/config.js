@@ -9,8 +9,8 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
     { title: '给我一键三连，谢谢（伸手', url: 'https://space.bilibili.com/567031112' }
-    // ,
-    // { title: '访问文档中心获取更多帮助', url: 'https://docs.tangly1024.com' }
+    ,
+    { title: '访问文档中心获取更多帮助', url: 'https://docs.tangly1024.com' }
   ],
 
   // 英雄区左右侧组件颠倒位置
