@@ -63,10 +63,10 @@ const CONFIG = {
   HEO_GROUP_ICONS: [
     {
       title_1: 'ComicCon',
-      img_1: '/images/heo/1-2.webp',
+      img_1: '/images/heo/1-1.png',
       color_1: '#000000',
       title_2: 'Live',
-      img_2: '/images/heo/1-1.png',
+      img_2: '/images/heo/1-2.png',
       color_2: '#000000'
     }
     // ,
