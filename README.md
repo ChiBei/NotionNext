@@ -11,7 +11,6 @@ Notion是一个能让效率暴涨的生产力引擎，可以帮你书写文档�
 
 
 # NotionNext
-
 <p>
   <a aria-label="GitHub commit activity" href="https://github.com/tangly1024/NotionNext/commits/main" title="GitHub commit activity">
     <img src="https://img.shields.io/github/commit-activity/m/tangly1024/NotionNext?style=for-the-badge"/>
