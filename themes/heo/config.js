@@ -20,7 +20,7 @@ const CONFIG = {
 
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '记录生活',
-  HEO_HERO_TITLE_2: 'Ted 到此一游',
+  HEO_HERO_TITLE_2: '整理存档',
   HEO_HERO_TITLE_3: 'TedMosby.top',
   // HEO_HERO_TITLE_4: '新版上线',
   // HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
