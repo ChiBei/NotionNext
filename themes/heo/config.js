@@ -11,7 +11,7 @@ const CONFIG = {
   HEO_NOTICE_BAR: [
     { title: '给我一键三连，谢谢（伸手', url: 'https://space.bilibili.com/567031112' }
     ,
-    { title: '访问文档中心获取更多帮助122321442', url: 'https://docs.tangly1024.com' }
+    { title: '早', url: 'https://space.bilibili.com/567031112' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -46,7 +46,7 @@ const CONFIG = {
     '🎮 游戏区',
     '📝 学习区',
     '🧑‍💻 科技区',
-    '📦 菜鸟裹裹区'
+    '📦 直播的终点区'
   ],
 
   // 个人资料底部按钮
@@ -167,14 +167,14 @@ const CONFIG = {
   HEO_POST_LIST_COVER: true, // 列表显示文章封面
   HEO_POST_LIST_COVER_HOVER_ENLARGE: false, // 列表鼠标悬停放大
 
-  HEO_POST_LIST_COVER_DEFAULT: true, // 封面为空时用站点背景做默认封面
+  HEO_POST_LIST_COVER_DEFAULT: false, // 封面为空时用站点背景做默认封面
   HEO_POST_LIST_SUMMARY: true, // 文章摘要
   HEO_POST_LIST_PREVIEW: false, // 读取文章预览
   HEO_POST_LIST_IMG_CROSSOVER: true, // 博客列表图片左右交错
 
-  HEO_ARTICLE_ADJACENT: true, // 显示上一篇下一篇文章推荐
-  HEO_ARTICLE_COPYRIGHT: true, // 显示文章版权声明
-  HEO_ARTICLE_RECOMMEND: true, // 文章关联推荐
+  HEO_ARTICLE_ADJACENT: false, // 显示上一篇下一篇文章推荐
+  HEO_ARTICLE_COPYRIGHT: false, // 显示文章版权声明
+  HEO_ARTICLE_RECOMMEND: false, // 文章关联推荐
 
   HEO_WIDGET_LATEST_POSTS: true, // 显示最新文章卡
   HEO_WIDGET_ANALYTICS: false, // 显示统计卡
