@@ -63,35 +63,35 @@ const CONFIG = {
     {
       title_1: 'ComicCon',
       img_1: '/images/heo/1-1.png',
-      color_1: '#000000',
+      color_1: '#1f1f1f',
       title_2: 'Live',
       img_2: '/images/heo/1-2.png',
-      color_2: '#000000'
+      color_2: '#1f1f1f'
     }
     ,
     {
       title_1: 'ComicCon2',
       img_1: '/images/heo/1-3.png',
-      color_1: '#000000',
+      color_1: '#1f1f1f',
       title_2: 'ComicCon3',
       img_2: '/images/heo/1-4.png',
-      color_2: '#000000'
+      color_2: '#1f1f1f'
     },
     {
       title_1: 'ComicCon4',
       img_1: '/images/heo/1-1.png',
-      color_1: '#000000',
+      color_1: '#1f1f1f',
       title_2: 'ComicCon5',
       img_2: '/images/heo/1-2.png',
-      color_2: '#000000'
+      color_2: '#1f1f1f'
     },
     {
       title_1: 'ComicCon6',
       img_1: '/images/heo/1-3.png',
-      color_1: '#000000',
+      color_1: '#1f1f1f',
       title_2: 'ComicCon7',
       img_2: '/images/heo/1-4.png',
-      color_2: '#000000'
+      color_2: '#1f1f1f'
     }
     // {
     //   title_1: 'ComicCon',
