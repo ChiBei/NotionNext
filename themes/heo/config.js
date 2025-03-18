@@ -13,6 +13,7 @@ const CONFIG = {
     { title: '早', url: 'https://space.bilibili.com/567031112' }
   ],
 
+  
   // 英雄区左右侧组件颠倒位置
   HEO_HERO_REVERSE: false,
   // 博客主体区左右侧组件颠倒位置
