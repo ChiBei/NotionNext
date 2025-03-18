@@ -23,7 +23,7 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '整理存档',
   HEO_HERO_TITLE_3: 'TedMosby.top',
   HEO_HERO_TITLE_4: '全新上线',
-  HEO_HERO_TITLE_5: '82岁，喜欢卡片',
+  HEO_HERO_TITLE_5: '82岁',
   HEO_HERO_TITLE_LINK: 'https://space.bilibili.com/567031112',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随机一下哈',
@@ -143,7 +143,7 @@ const CONFIG = {
     // }
   ],
 
-  HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
+  HEO_SOCIAL_CARD: false, // 是否显示右侧，点击加入社群按钮
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
   HEO_SOCIAL_CARD_TITLE_2: '全T了',
   HEO_SOCIAL_CARD_TITLE_3: '点击提交直播间签到10000天记录',
